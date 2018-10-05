@@ -1,5 +1,5 @@
 # Neutralino + ReactJs Template
-A neutralino app that displays the current perecentage of your system RAM memory being used. 
+A neutralino app made with ReactJs which could be used as an template!
 
 ## Running this application 
 1. Clone or Download this Repository
