@@ -1,5 +1,5 @@
 # Neutralino + ReactJs Template
-A neutralino app made with ReactJs which could be used as an template!
+A neutralino app made with ReactJs which could be used as a template!
 
 ## Running this application 
 1. Clone or Download this Repository
