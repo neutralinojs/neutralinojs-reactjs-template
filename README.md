@@ -15,3 +15,5 @@ A neutralino app made with ReactJs which could be used as a template!
 [View More Samples](https://github.com/neutralinojs/neutralinojs-samples) <br/>
 
 Build your own NeutralinoJs app? [Get Started](https://neutralinojs.github.io/docs/#/gettingstarted/quickstart)
+
+Happy Coding :)
