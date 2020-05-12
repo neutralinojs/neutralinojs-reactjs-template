@@ -1,4 +1,17 @@
 # Neutralino + ReactJs Template
+
+❗️ IMPORTANT
+
+![No longer maintained](https://img.shields.io/badge/Maintenance-OFF-red.svg)
+### :no_entry: [DEPRECATED] This repository is no longer maintained
+#### This template is deprecated. Please use [neu-cli](https://neutralino.js.org/docs/#/tools/cli) with the new React template.
+Active at https://github.com/neutralinojs/neutralinojs-react
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 A neutralino app made with ReactJs which could be used as a template!
 
 ## Running this application 
